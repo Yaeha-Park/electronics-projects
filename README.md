@@ -2,6 +2,8 @@
 ---
 
 ### Custom FPV Whoop Drone Build
+![Whoop Drone](images/whoop.jpg)
+![FPV Electronics](images/fpv-electronics.jpg)
 Built a fully functional FPV whoop drone using a combination of salvaged and individual components.
 
 #### Key Work:
@@ -17,6 +19,8 @@ Built a fully functional FPV whoop drone using a combination of salvaged and ind
 - Hardware troubleshooting
 
 ### Hand-Built Guitar Effects Pedal
+![Pedal Exterior](images/pedal-top.jpg)
+![Pedal Interior](images/pedal-inside.jpg)
 Constructed and soldered a working guitar effects pedal from individual electronic components.
 
 #### Key Work:
