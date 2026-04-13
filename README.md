@@ -1,7 +1,4 @@
 # Electronics & FPV Hardware Portfolio
-
-This repository showcases hands-on electronics projects focused on drone assembly, soldering, and circuit construction. It highlights practical build experience, troubleshooting, and attention to detail in hardware work.
-
 ---
 
 ### Custom FPV Whoop Drone Build
